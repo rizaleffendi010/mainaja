@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://ftp.chasereplogle.com/sitemap.xml
